@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="Name">Gurnoor Singh Sodhi</string>
+    <string name="Description">Over-Powered Android Developer</string>
+    <string name="MobNumber">+91 12345 67890</string>
+    <string name="Linkedin_User_Name">\@Gurnoor Singh</string>
+    <string name="Mail_ID">gurnoor.codes@gmail.com</string>
+</resources>
